@@ -1,5 +1,5 @@
-# Demographic Data Analyzer
+# Sea Level Predictor
 
-Resolution of freeCodeCamp challenge #2 from Data Analysis with Python certification:
+Resolution of freeCodeCamp challenge #5 from Data Analysis with Python certification:
 
-"In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database."
+"You will analyze a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050."
